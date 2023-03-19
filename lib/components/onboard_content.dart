@@ -54,7 +54,7 @@ class _OnboardContentState extends State<OnboardContent> {
           ),
           Positioned(
             height: 56,
-            bottom: 32 + progress * 140,
+            bottom: 32 + progress * 150,
             right: 16,
             child: GestureDetector(
               onTap: () {
